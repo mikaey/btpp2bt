@@ -1,0 +1,14 @@
+{
+    "name": "mikaey/btpp2bt",
+    "description": "Braintree/PayPal 2-Button Test",
+    "type": "project",
+    "require": {
+        "braintree/braintree_php": "3.39"
+    },
+    "authors": [
+        {
+            "name": "Matt Cole",
+            "email": "macole@paypal.com"
+        }
+    ]
+}

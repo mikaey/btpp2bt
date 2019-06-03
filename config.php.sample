@@ -1,0 +1,7 @@
+<?php
+
+define( 'BT_ENVIRONMENT', '' ); // 'sandbox' or 'production'
+define( 'BT_MERCHANTID', '' );  // Your Braintree merchant ID
+define( 'BT_PUBLICKEY', '' );   // Your public key (this is provided to you by Braintree)
+define( 'BT_PRIVATEKEY', '' );  // Your private key (this is provided to you by Braintree)
+
